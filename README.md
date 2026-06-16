@@ -9,7 +9,7 @@ In modern enterprise environments, IT helpdesks face high ticket volumes, langua
 This project builds a **Secure Core Infrastructure** that:
 - **Reduces Response Latency:** Automates the first line of defense via instant Ticket Triage & Categorization.
 - **Ensures Absolute Data Privacy:** Uses a localized LLM via Ollama, keeping sensitive corporate emails and user credentials entirely within the local infrastructure.
-- **Eliminates Language Barriers:** Operates seamlessly across multiple languages (English, Finnish, Bengali) without requiring manual translation layers.
+- **Eliminates Language Barriers:** Operates seamlessly across multiple languages (English, Finnish and others) without requiring manual translation layers.
 
 ---
 
