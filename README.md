@@ -72,7 +72,7 @@ This project builds a **Secure Core Infrastructure** that:
 ### 📧 5. Production-Grade HTML Resolution Email
 <img width="552" height="667" alt="e0941116-626e-43d5-b564-f108d8893d5f" src="https://github.com/user-attachments/assets/b7223407-c2cb-4aab-8052-ceca3aa10ca0" />
 
-*Figure 5: Automated HTML response delivered to the end-user with strict thread isolation rules.*![Uploading Image_1.png…]()
+*Figure 5: Automated HTML response delivered to the end-user with strict thread isolation rules.*
 
 ---
 
